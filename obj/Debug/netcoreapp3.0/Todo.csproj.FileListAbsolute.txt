@@ -1,0 +1,3 @@
+C:\Users\clovis\Documents\Todo\obj\Debug\netcoreapp3.0\Todo.csprojAssemblyReference.cache
+C:\Users\clovis\Documents\Todo\obj\Debug\netcoreapp3.0\Todo.AssemblyInfoInputs.cache
+C:\Users\clovis\Documents\Todo\obj\Debug\netcoreapp3.0\Todo.AssemblyInfo.cs

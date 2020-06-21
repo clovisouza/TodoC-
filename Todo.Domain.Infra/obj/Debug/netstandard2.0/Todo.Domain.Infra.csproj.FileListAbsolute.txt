@@ -1,0 +1,11 @@
+C:\Users\clovis\Documents\Todo\todo.domain.infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.deps.json
+C:\Users\clovis\Documents\Todo\todo.domain.infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.dll
+C:\Users\clovis\Documents\Todo\todo.domain.infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.pdb
+C:\Users\clovis\Documents\Todo\todo.domain.infra\bin\Debug\netstandard2.0\Todo.Domain.dll
+C:\Users\clovis\Documents\Todo\todo.domain.infra\bin\Debug\netstandard2.0\Todo.Domain.pdb
+C:\Users\clovis\Documents\Todo\todo.domain.infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csprojAssemblyReference.cache
+C:\Users\clovis\Documents\Todo\todo.domain.infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfoInputs.cache
+C:\Users\clovis\Documents\Todo\todo.domain.infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfo.cs
+C:\Users\clovis\Documents\Todo\todo.domain.infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csproj.CopyComplete
+C:\Users\clovis\Documents\Todo\todo.domain.infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.dll
+C:\Users\clovis\Documents\Todo\todo.domain.infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.pdb
